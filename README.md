@@ -112,9 +112,11 @@
     
     김영희 소위가 용무를 마치고 위병소 밖으로 나가며 출입증을 스캔하자 모바일 단말 관리 기능이 비활성화 되었다.
 
-## 매뉴얼
+## 매뉴얼, APK
 
 [서버 설치, 구축, 설정, API, 구조에 관한 문서](https://github.com/codpot/TongSinBoAn-server/blob/master/README.md)
+
+[APK 다운로드](TongSinBoAn.apk)
 
 ## 크레디트
 
